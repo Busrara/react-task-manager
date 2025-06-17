@@ -1,10 +1,10 @@
 # Task Manager
 
-This project is a modern, beautiful task management application built with React and Vite. You can organize your life, one task at a time!
+This is a modern task management application project built with React and Vite. You can organize your life, one task at a time with this simple application.
 
 A picture of the app: https://github.com/Busrara/react-task-manager/blob/main/public/Screenshot.png
 
-## 🚀 Features
+## Features
 
 Add Tasks: Quickly add new tasks with a clean, intuitive interface  
 Mark Complete: Check off completed tasks with animations  
@@ -13,7 +13,6 @@ Delete Tasks: Remove tasks you no longer need
 Filter Tasks: View All, Active, or Completed tasks  
 Statistics: Real-time stats showing your progress  
 Responsive: Works perfectly on desktop and mobile devices  
-Modern Design: Beautiful glassmorphism UI with smooth animations  
 
 ## Built With
 
